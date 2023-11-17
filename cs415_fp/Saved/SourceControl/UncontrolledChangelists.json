@@ -6,6 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Chenhao Xu/Desktop/CS415-Final-Project/cs415_fp/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/Chenhao Xu/Desktop/CS415-Final-Project/cs415_fp/Content/Enemy/AIController.uasset",
+				"C:/Users/Chenhao Xu/Desktop/CS415-Final-Project/cs415_fp/Content/Enemy/Melee_Enemy.uasset",
+				"C:/Users/Chenhao Xu/Desktop/CS415-Final-Project/cs415_fp/Content/Enemy/Range_Enemy.uasset",
+				"C:/Users/Chenhao Xu/Desktop/CS415-Final-Project/cs415_fp/Content/LearningKit_Games/Assets/Architecture/Gates/BP_Portal.uasset",
+				"C:/Users/Chenhao Xu/Desktop/CS415-Final-Project/cs415_fp/Content/Enemy/Bullet.uasset",
+				"C:/Users/Chenhao Xu/Desktop/CS415-Final-Project/cs415_fp/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Chenhao Xu/Desktop/CS415-Final-Project/cs415_fp/Content/Enemy/Melee_anim.uasset",
 				"U:/Desktop/cs415_fp/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
 				"U:/Desktop/cs415_fp/Content/LearningKit_Games/Assets/Architecture/KitCottage/BP_house1.uasset",
 				"U:/Desktop/cs415_fp/Content/LearningKit_Games/Assets/Architecture/KitCottage/BP_house2.uasset",
