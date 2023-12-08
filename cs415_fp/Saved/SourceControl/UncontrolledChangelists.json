@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ananaym2/Documents/GitHub/CS415-Final-Project/cs415_fp/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ananaym2/Documents/GitHub/CS415-Final-Project/cs415_fp/Content/ThirdPerson/Input/Actions/NewInputAction.uasset",
+				"C:/Users/ananaym2/Documents/GitHub/CS415-Final-Project/cs415_fp/Content/ThirdPerson/Blueprints/WB_Aim.uasset",
+				"C:/Users/ananaym2/Documents/GitHub/CS415-Final-Project/cs415_fp/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/ananaym2/Documents/GitHub/CS415-Final-Project/cs415_fp/Content/ThirdPerson/Input/Actions/IA_Single.uasset",
+				"C:/Users/ananaym2/Documents/GitHub/CS415-Final-Project/cs415_fp/Content/Enemy/Melee_Enemy.uasset",
+				"C:/Users/ananaym2/Documents/GitHub/CS415-Final-Project/cs415_fp/Content/BlockGame/Materials/MainHUD.uasset",
 				"C:/Users/Chenhao Xu/Desktop/CS415-Final-Project/cs415_fp/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
 				"C:/Users/Chenhao Xu/Desktop/CS415-Final-Project/cs415_fp/Content/Enemy/AIController.uasset",
 				"C:/Users/Chenhao Xu/Desktop/CS415-Final-Project/cs415_fp/Content/Enemy/Melee_Enemy.uasset",
